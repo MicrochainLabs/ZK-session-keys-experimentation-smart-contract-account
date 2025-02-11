@@ -57,6 +57,7 @@ wrap_comments = true
 sepolia = "${SEPOLIA_RPC_URL}"
 mumbai = "${MUMBAI_RPC_URL}"
 amoy = "${AMOY_RPC_URL}"
+polygon = "${POLYGON_RPC_URL}"
 
 
 # See more config options https://github.com/foundry-rs/foundry/blob/master/crates/config/README.md#all-options
